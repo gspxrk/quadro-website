@@ -30,7 +30,7 @@ const Footer = () => {
                     alt="online-status"
                     className="onlineStatus"
                   />{" "}
-                  Bot is online!
+                  Quadro is online!
                 </span>
               </li>
             </ul>
@@ -39,17 +39,12 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="p-color" href="/commands">
-                  /commands
+                  Commands
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="#">
-                  /support
-                </Link>
-              </li>
-              <li>
-                <Link className="p-color" href="#">
-                  /discord-server
+                <Link className="p-color" href="https://discord.gg/8WCwW5wBPF">
+                  Discord
                 </Link>
               </li>
             </ul>
@@ -59,30 +54,28 @@ const Footer = () => {
           <hr />
           <div>
             <p className="p-color">
-              Created with ❤️ by{" "}
+              Created by{" "}
               <Link
-                href="https://github.com/preetsuthar17"
+                href="https://discord.gg/8WCwW5wBPF"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Quadro Development
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="#">
-              /support
+              Support
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
-            >
-              /source-code
-            </Link>
-            <Link className="p-color no-decoration" href="#">
-              /privacy
-            </Link>
+              href="https://discord.gg/8WCwW5wBPF">
+              Back to top
+            </Link
+              className="p-color no-decoration"
+              href="#">
           </div>
         </div>
       </footer>
