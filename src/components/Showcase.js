@@ -12,23 +12,22 @@ const Showcase = () => {
       <main className="showcase">
         <h1 className="showcase-header h-color">BOT</h1>
         <h2 className="showcase-header-text h-color">
-          The only discord bot you need!
+          The only Discord bot you need!
         </h2>
         <p className="showcase-para p-color">
-          One of the awesome discord bot with tons of commands that will fill
-          your needs in your discord server.
+          A multi-purpose Discord bot with features ranging from moderation, giveaways and ticketing to games, counting system and logging.  
         </p>
 
-        <span className="p-color">Bot is online!</span>
+        <span className="p-color">Enhance your Discord experience with Quadro today!</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.com/oauth2/authorize?client_id=980797090718433301">
               Invite now!
             </Link>
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.gg/8WCwW5wBPF">
               Join server!
             </Link>
           </button>
