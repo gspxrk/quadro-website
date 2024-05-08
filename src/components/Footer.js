@@ -71,11 +71,10 @@ const Footer = () => {
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://discord.gg/8WCwW5wBPF">
+              href="https://discord.gg/8WCwW5wBPF"
+            >
               Back to top
-            </Link
-              className="p-color no-decoration"
-              href="#">
+            </Link>
           </div>
         </div>
       </footer>
