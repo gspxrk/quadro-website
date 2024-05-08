@@ -10,7 +10,7 @@ const Showcase = () => {
       animate={{ opacity: 1 }}
     >
       <main className="showcase">
-        <h1 className="showcase-header h-color">BOT</h1>
+        <h1 className="showcase-header h-color">Quadro</h1>
         <h2 className="showcase-header-text h-color">
           The only Discord bot you need!
         </h2>
