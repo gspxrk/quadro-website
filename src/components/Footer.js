@@ -66,14 +66,14 @@ const Footer = () => {
           </div>
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="#">
-              Support
+              Back to top
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
               href="https://discord.gg/8WCwW5wBPF"
             >
-              Back to top
+              Support
             </Link>
           </div>
         </div>
