@@ -341,6 +341,14 @@ export default function Commands() {
                   <span className="p-color">Manage this server's counting system.</span>
                 </li>
                 <li>
+                  <kbd>/fotd</kbd> -{" "}
+                  <span className="p-color">Manage this server's FOTD (Fact Of The Day) system.</span>
+                </li>
+                <li>
+                  <kbd>/chatbot</kbd> -{" "}
+                  <span className="p-color">Manage this server's AI chatbot system.</span>
+                </li>
+                <li>
                   <kbd>/giveaway</kbd> -{" "}
                   <span className="p-color">Manage giveaways within the server.</span>
                 </li>
