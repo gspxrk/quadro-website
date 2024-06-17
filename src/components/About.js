@@ -40,7 +40,7 @@ const About = () => {
 
         <section className="about-stats">
           <div className="about-stats-card">
-            <h4 className="h-color">30</h4>
+            <h4 className="h-color">40</h4>
             <p className="p-color">Total Servers</p>
           </div>
           <div className="about-stats-card">
@@ -48,7 +48,7 @@ const About = () => {
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">8k+</h4>
+            <h4 className="h-color">10k+</h4>
             <p className="p-color">Total commands ran</p>
           </div>
         </section>
